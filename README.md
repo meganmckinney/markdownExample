@@ -29,10 +29,10 @@ As Grace Hopper said:
 
 :+1: :metal: :octocat:
 
-\\\java
+```java
 
 public static void main (String args[]){
 
 }
 
-\\\
+```
