@@ -41,7 +41,7 @@ public static void main (String args[]){
 
 Task List #1:
 - [x] this item completed
-- [] this item not completed
+- [ ] this item not completed
 
 Tables: 
 
