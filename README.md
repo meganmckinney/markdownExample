@@ -16,3 +16,21 @@ As Grace Hopper said:
 >I've always been more interested in
 
 >The future than the past
+
+* Unordered Item
+* Another unordered item
+
+1. Ordered Item 1
+2. Ordered Item 2
+
+\* Escaped asterisks \*
+
+[Github] (http://github.com)
+
+:+1: :metal: :octocat:
+
+\\\java
+public static void main (String args[]){
+
+}
+\\\
